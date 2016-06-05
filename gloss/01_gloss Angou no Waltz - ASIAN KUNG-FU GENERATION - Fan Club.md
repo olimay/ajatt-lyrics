@@ -1,6 +1,11 @@
-歌：ASIAN KUNG-FU GENERATION
-作詞：後藤正文
-作曲：後藤正文
+暗号のワルツ
+===========
+
+### 歌：ASIAN KUNG-FU GENERATION
+
+### 作詞：後藤正文
+
+### 作曲：後藤正文
 
 ```
 慌てなくたって
